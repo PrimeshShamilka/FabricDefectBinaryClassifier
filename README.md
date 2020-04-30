@@ -1,2 +1,2 @@
 # FabricDefectDetector
-Automated Fabric Defect Detection System using Computer Vision
+Automated Fabric Defect classification System using Computer Vision
